@@ -103,20 +103,41 @@
   ],
   "theiaPluginsDir": "plugins",
   "theiaPlugins": {
-    "eclipse-theia.builtin-extension-pack": "https://open-vsx.org/api/eclipse-theia/builtin-extension-pack/1.79.0/file/eclipse-theia.builtin-extension-pack-1.79.0.vsix",
-    "EditorConfig.EditorConfig": "https://open-vsx.org/api/EditorConfig/EditorConfig/0.16.6/file/EditorConfig.EditorConfig-0.16.6.vsix",
-    "dbaeumer.vscode-eslint": "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.4.2/file/dbaeumer.vscode-eslint-2.4.2.vsix",
-    "ms-vscode.js-debug": "https://open-vsx.org/api/ms-vscode/js-debug/1.78.0/file/ms-vscode.js-debug-1.78.0.vsix",
-    "ms-vscode.js-debug-companion": "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.1.2/file/ms-vscode.js-debug-companion-1.1.2.vsix"
+    "saide.python-base": "https://open-vsx.org/api/vscode/python/1.83.1/file/vscode.python-1.83.1.vsix",
+    "saide.python-extension": "https://open-vsx.org/api/donjayamanne/python-extension-pack/1.7.0/file/donjayamanne.python-extension-pack-1.7.0.vsix",
+    "saide.python-dev-extension":"https://open-vsx.org/api/franneck94/vscode-python-dev-extension-pack/2.0.0/file/franneck94.vscode-python-dev-extension-pack-2.0.0.vsix",
+    "saide.python-module":"https://open-vsx.org/api/gnramsay/create-python-module/1.0.4/file/gnramsay.create-python-module-1.0.4.vsix",
+    "saide.python-debug":"https://open-vsx.org/api/ms-python/debugpy/linux-x64/2024.0.0/file/ms-python.debugpy-2024.0.0@linux-x64.vsix",
+    "saide.python-tests": "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.8.1/file/littlefoxteam.vscode-python-test-adapter-0.8.1.vsix",
+    "saide.python-autoimport":"https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.2/file/virgilsisoe.python-auto-import-0.1.2.vsix",
+    "saide.python-arepl":"https://open-vsx.org/api/almenon/arepl/2.0.5/file/almenon.arepl-2.0.5.vsix",
+    "saide.sql-inline": "https://open-vsx.org/api/qufiwefefwoyn/inline-sql-syntax/2.10.3/file/qufiwefefwoyn.inline-sql-syntax-2.10.3.vsix",
+    "saide.sql-base":"https://open-vsx.org/api/vscode/sql/1.83.1/file/vscode.sql-1.83.1.vsix",
+    "saide.sql-client-posgresql": "https://open-vsx.org/api/mtxr/sqltools-driver-pg/0.5.1/file/mtxr.sqltools-driver-pg-0.5.1.vsix",
+    "saide.sql-client-sqlite":"https://open-vsx.org/api/mtxr/sqltools-driver-sqlite/0.5.0/file/mtxr.sqltools-driver-sqlite-0.5.0.vsix",
+    "saide.jinja": "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.20.0/file/samuelcolvin.jinjahtml-0.20.0.vsix",
+    "saide.json-base":"https://open-vsx.org/api/vscode/json/1.83.1/file/vscode.json-1.83.1.vsix",
+    "saide.json-features":"https://open-vsx.org/api/vscode/json-language-features/1.83.1/file/vscode.json-language-features-1.83.1.vsix",
+    "saide.editorconfig": "https://open-vsx.org/api/EditorConfig/EditorConfig/0.16.6/file/EditorConfig.EditorConfig-0.16.6.vsix",
+    "saide.git-graph":"https://open-vsx.org/api/mhutchie/git-graph/1.30.0/file/mhutchie.git-graph-1.30.0.vsix",
+    "saide.git-blame":"https://open-vsx.org/api/solomonkinard/git-blame/0.2.11/file/solomonkinard.git-blame-0.2.11.vsix",
+    "saide.git-buttons":"https://open-vsx.org/api/anweber/git-buttons/3.0.0/file/anweber.git-buttons-3.0.0.vsix",
+    "saide.git-tabs":"https://open-vsx.org/api/solomonkinard/git-tabs/0.1.2/file/solomonkinard.git-tabs-0.1.2.vsix",
+    "saide.todo":"https://open-vsx.org/api/Gruntfuggly/todo-tree/0.0.215/file/Gruntfuggly.todo-tree-0.0.215.vsix",
+    "saide.diff-base": "https://open-vsx.org/api/vscode/diff/1.83.1/file/vscode.diff-1.83.1.vsix",
+    "saide.diff-semantic": "https://open-vsx.org/api/semanticdiff/semanticdiff/linux-x64/0.8.8/file/semanticdiff.semanticdiff-0.8.8@linux-x64.vsix",
+    "saide.git-conflict-merge": "https://open-vsx.org/api/vscode/merge-conflict/1.83.1/file/vscode.merge-conflict-1.83.1.vsix"
   },
   "theiaPluginsExcludeIds": [
     "ms-vscode.js-debug-companion",
     "vscode.extension-editing",
     "vscode.git",
-    "vscode.git-base",
     "vscode.github",
     "vscode.github-authentication",
     "vscode.microsoft-authentication",
-    "ms-vscode.references-view"
+    "ms-vscode.references-view",
+    "franneck94.vscode-cpython-extension-pack",
+    "DiogoNolasco.pyinit",
+    "ms-python.vscode-pylance"
   ]
 }
